@@ -1,0 +1,10 @@
+# MealKit source module (docs/MODULES.md in the engine). Read by the engine build and tools\module.ps1.
+@format module 1
+name procgen
+version 0.1.0
+engine 0.9
+title Procedural placement
+summary Seed-based placement of points in an area with minimum spacing, weighted picks and shuffles
+tags gameplay map
+icon map
+requires
